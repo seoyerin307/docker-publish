@@ -2,3 +2,7 @@
 
 # NodeJS files
 **/node_modules
+
+## docker
+docker/mysql/mysql*
+docker/mongodb/mongo*
